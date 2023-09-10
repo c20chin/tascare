@@ -1,6 +1,6 @@
 # TasCare - Social Care Task Management Power Apps
 
-TasCare is a Power Apps solution developed specifically for NHS England, designed to streamline the daily tasks of social care workers. This application is tailored to address the issue of social care workers spending excessive time recording their daily activities, ultimately diverting their focus away from the essential act of caring for individuals in need. TasCare aims to replace handwritten logs, which can be time-consuming and prone to errors, with a digital solution that enhances efficiency and accuracy.
+TasCare is a Power Apps solution developed specifically for NHS England in cooperation with Microsoft solutions, designed to streamline the daily tasks of social care workers. This application is tailored to address the issue of social care workers spending excessive time recording their daily activities, ultimately diverting their focus away from the essential act of caring for individuals in need. TasCare aims to replace handwritten logs, which can be time-consuming and prone to errors, with a digital solution that enhances efficiency and accuracy.
 
 ![TasCare_logo](https://github.com/c20chin/tascare/assets/60973182/9d0547ca-8803-402f-9fad-1b69449c6987)
 
