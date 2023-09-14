@@ -49,7 +49,7 @@ Use the following test account on [TasCare - User App](https://apps.powerapps.co
 
 ## Admin App
 
-Use the following test account on [TasCare - Admin App]([https://apps.powerapps.com/play/e/default-aea48856-3e55-45be-ba30-15334fd23af9/a/01967e1a-558a-4713-baa0-33d3822a39a2?tenantId=aea48856-3e55-45be-ba30-15334fd23af9&hint=f0b0d878-fe13-4770-a184-1c13b214d576&sourcetime=1694695764040](https://apps.powerapps.com/play/e/default-aea48856-3e55-45be-ba30-15334fd23af9/a/b3083baf-b654-44aa-a299-1181dd4e1938?tenantId=aea48856-3e55-45be-ba30-15334fd23af9&hint=1943d8ed-e063-4cef-92f9-49cdeb71e73d&sourcetime=1694696983958)) to explore the admin app.
+Use the following test account on [TasCare - Admin App](https://apps.powerapps.com/play/e/default-aea48856-3e55-45be-ba30-15334fd23af9/a/b3083baf-b654-44aa-a299-1181dd4e1938?tenantId=aea48856-3e55-45be-ba30-15334fd23af9&hint=1943d8ed-e063-4cef-92f9-49cdeb71e73d&sourcetime=1694696983958) to explore the admin app.
 
 
 - **Email**: admin@uclmicrosoftnhs.onmicrosoft.com
