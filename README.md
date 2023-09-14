@@ -38,7 +38,7 @@ To get started with TasCare, follow these steps:
 Use the following test account on https://make.powerapps.com/ to explore the user app:
 
 - **Email**: test1@uclmicrosoftnhs.onmicrosoft.com
-- **Password**: Sux53046
+- **Password**: Sux11923
 
 ## Demo Video
 [https://www.youtube.com/watch?v=vOFddm3cfqo](https://www.youtube.com/watch?v=vOFddm3cfqo)
