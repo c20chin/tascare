@@ -61,6 +61,11 @@ Use the following test account on [TasCare - Admin App](https://apps.powerapps.c
 ## Demo Video
 [https://www.youtube.com/watch?v=vOFddm3cfqo](https://www.youtube.com/watch?v=vOFddm3cfqo)
 
+
+## More Information
+Check out other projects from our team: [https://sites.google.com/view/power-apps-for-nhs/home](https://sites.google.com/view/power-apps-for-nhs/home)
+
+
 ## Support and Feedback
 
 If you encounter any issues, have questions, or would like to provide feedback on TasCare, please feel free to [open an issue](https://github.com/c20chin/issues) or [contact me](mailto:c20chin@gmail.com). 
