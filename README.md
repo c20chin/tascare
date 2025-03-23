@@ -27,11 +27,13 @@ In addition to these core features, TasCare also includes Power Automate flows t
 
 ## Install the Solution
 
-To get started with TasCare, follow these steps:
+**Note:** This PowerApps solution is no longer importable due to missing dependencies, and after the project ended, I no longer have admin privileges with the account to update the solution. However, the demo app below is still available.
 
-1. Clone or download the repository to your local environment.
-2. Import the provided Power Apps solution into your Power Apps environment.
-3. Set up the necessary connections and configurations as required.
+~~To get started with TasCare, follow these steps:~~
+
+~~1. Clone or download the repository to your local environment.~~
+~~2. Import the provided Power Apps solution into your Power Apps environment.~~
+~~3. Set up the necessary connections and configurations as required.~~
 
 
 ### Don't Want to Deploy? Try This Test Account
